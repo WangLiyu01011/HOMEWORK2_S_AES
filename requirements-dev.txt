@@ -1,0 +1,3 @@
+# 程序本身只依赖 Python 标准库；以下仅为开发工具依赖。
+# tools/make_screenshots.py 需要 Pillow 进行屏幕截图。
+Pillow>=10.0
